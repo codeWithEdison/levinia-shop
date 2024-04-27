@@ -16,7 +16,7 @@ Lavinia Shop Management System is a web application built to manage inventory, t
 1. Clone the repository:
 
 
-git clone https://github.com/codewithedsion/lavinia-shop.git
+git clone https://github.com/codeWithEdison/levinia-shop.git
 
 
 2. Import the database schema provided in the `lavinia_shop.sql` file into your MySQL or MariaDB database.
